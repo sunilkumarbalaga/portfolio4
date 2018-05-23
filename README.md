@@ -6,7 +6,7 @@ My portfolio project is about top 5 fastest bikes.
 
 Review:-
 
-In my portfolio site I use css,html and javascript languages.
+In my portfolio site I use css and html languages.
 
 Specs:-
 
